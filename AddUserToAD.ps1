@@ -1,6 +1,9 @@
-#Author: n4t5ru
-#Email: hello@nasru.me
-#Name: Add New User to Active Directory
+<#
+    Author:     n4t5ru
+    Email:      hello@nasru.me
+    Version:    1.0
+    Created:    20/06/2022
+#> 
 
 #Notice for user regarding the Usernames
 Write-Host "Important Notice. Please note that Username Will be created using the values entered as follows: " -ForegroundColor Green

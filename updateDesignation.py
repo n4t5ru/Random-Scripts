@@ -1,3 +1,9 @@
+"""
+    Author:     n4t5ru
+    Email:      hello@nasru.me
+    Version:    1.0
+"""
+
 import csv
 import subprocess
 

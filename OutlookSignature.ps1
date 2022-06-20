@@ -3,6 +3,7 @@
 
     Modified By:
         Author:     n4t5ru
+        Email:      hello@nasru.me
         Version:    1.0
         Modified:   30/5/2022
 #> 
