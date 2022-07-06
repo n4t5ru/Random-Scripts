@@ -41,7 +41,7 @@ $designation = Read-Host -Prompt "Enter Designation: "
 
 #Variables that need to be merged or needs extra static parameters
 $username = $firstname+'.'+$lastname
-$displayname = $firstname+' '+$lastname
+$displayname = '"'+$firstname+' '+$lastname+'"'
 $emailname = $username+'@sdfc.mv'
 $companyname = "SDFC"
 
